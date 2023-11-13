@@ -1,4 +1,7 @@
-# CanBusMCP2515-arduino (CanBusMCP2515_asukiaaa)
+# CanBusMCP2515-arduino (CanBusMCP2515_asukiaaa) -old
+
+This library is old one.
+See new one https://github.com/asukiaaa/CanBusMCP2515-arduino.
 
 A library for arduino to communicate with MCP2515 or MCP25625 on SPI to use CAN Bus.
 
